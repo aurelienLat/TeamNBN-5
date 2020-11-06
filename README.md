@@ -7,7 +7,7 @@ Anissa Fabre  https://github.com/keithvald
 
 -----------------------------------------------------
 
-Wendy Vanbelle https://github.com/Lunalya
+Wendy Vanbelle https://github.com/Lunalya - 0646133125
 
 Maxime Bucho-Sastre https://github.com/MaxouDEV - 0781320274
 
