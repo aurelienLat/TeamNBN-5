@@ -19,7 +19,7 @@ Maxime Bucho-Sastre https://github.com/MaxouDEV - 0781320274
 
 -----------------------------------------------------
 
-Corentin Bousquet https://github.com/Cocoob
+Corentin Bousquet https://github.com/Cocoob - 0664224915
 
 -----------------------------------------------------
 
