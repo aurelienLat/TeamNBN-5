@@ -47,7 +47,8 @@ Aymeric Herchuelz https://github.com/aymeric19 0769787902
 
 -----------------------------------------------------
 
-Emilie VERDIER https://github.com/EmilieVrd
+
+Emilie VERDIER https://github.com/EmilieVrd 0652463562
 
 -----------------------------------------------------
 
