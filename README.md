@@ -25,7 +25,7 @@ Benjamin Murat https://github.com/H4nk17
 
 Aymeric Herchuelz https://github.com/aymeric19 0769787902
 
-Emilie VERDIER https://github.com/EmilieVrd
+Emilie VERDIER https://github.com/EmilieVrd 0652463562
 
 Barcelona Megan https://github.com/mllxmegan 0601486821
 -----------------------------------
