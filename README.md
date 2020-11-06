@@ -19,7 +19,7 @@ Maxime Bucho-Sastre https://github.com/MaxouDEV - 0781320274
 
 -----------------------------------------------------
 
-Corentin Bousquet https://github.com/Cocoob - 0664224915
+Corentin Bousquet https://github.com/Cocoob
 
 -----------------------------------------------------
 
@@ -32,6 +32,10 @@ Clarisse HURION https://github.com/Lyrna
 -----------------------------------------------------
 
 Corentin Bousquet https://github.com/
+
+-----------------------------------------------------
+
+Lucas FROMONT https://github.com/Fromont-L 0622581780
 
 -----------------------------------------------------
 
